@@ -9,7 +9,6 @@ import io.dropwizard.util.Resources;
 
 import java.awt.color.ColorSpace;
 
-
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 
